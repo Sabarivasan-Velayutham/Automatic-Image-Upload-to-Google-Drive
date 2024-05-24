@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mineral-brand-345405",
+  "private_key_id": "337f5f6e417b327be16e0fd1eec667ebc0096525",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4GqRAtUV2owV4\nJNSGgV8G5v2oJ6vTdqecilya4rwK4aE2nm6iQAAdLFiUeypaZjx6ySVoz2z6RArp\nsTkUsI0t10Z6TCS5OyFreyyHAjU1kt9kAYKP/McOjxTPQJy6cX6NAILWn46TZXPR\n3h5UrxObUyrtcTEw1WnMEUZp+3gynIzcsjsklo83oRl02YhaWi+WemqRrKQspUUt\noAsBjLnTiGMtAu3rcEzYRPgFJalovpbc7qntRwfM9BUF8ONbJXoyJ4oN0sd4kOUd\nVgdCHDe40bCE+acEg+LW/LVXJpVFw0JB1NEP1gnYkZTkiYTVmfsG25lE0QX/iwWL\nuTj2EdUNAgMBAAECggEABJ1tfo4u/2dKiNe2E/qmlo5QIdQ2wHnftqm99L5qfM3F\nDVDYUJ8+lg7pfIekkgqeQCOOUDBjxmnR4KO3wWgfbdyQ3lDgPu6TD381+rZDxx9E\n71xLVGG/gqdh5Q0ZnmHWujx6SyXJs3scB/V/HTdBAyzI/7pf6B4B/CvSQktbtClT\nv+awcgslc5j36UeOEvJ3GVJ7Wa5xECvbnSEhvh8jIyYYKYMHzb3kK4fDPzgtJCvv\nalVZ2r7Ax2ZSysSzppPYC1HUB4vpcK5mZpTaRKiq7eIwIUkhvcw18yuN6oIXoX+L\nIJMEwZVADSi+AD4Uz7hgDmnfCV3WbLQU6bKy8sRp6QKBgQDto0wm8T8pk4Tt6SZZ\na0/x4H9AN/216MgclqJipm0AJEDyKa8fWgci3EnmGN9b6n/1CYAj6K+BJnT6gHOR\nkuTQ9A9YuQXmcu2rWVwKRZ2lo8JtpV1mmY54yP+7mKUGCjNy12LHIayGnNSk22tX\nLW6tV0tOJv2z3ubRRjxE0DXAqQKBgQDGVGUEf3MlhhSwXOJOPQsRlUFmpFupuLK+\nxb72NumLnWDTm9IuEkHH3Oc7G/b+/teWZEzt/zLzdO6uVteB20xKVtR92haSW6+Z\n7/4EyYDu7SeRib8Y+eJNo8/fK8qVOTsE+ZdQY2w/d5vVEu2KPrdDE+mUkdrEMaA3\nzQDbdETbxQKBgQDOxuMCl7UANm7anZ9S+3+q1k+jz5SibxWBWsmd0XbTQriIfyD0\nxN+kw85Bu67PSjNhQo0Pse7VEGOFfbQSHaGg+F1KNGUf6y1HhhACmCTe9qm9wsCN\nAFzqWOu9jss5gDLYYPaAk5qN33VgpdS3HL9LccQDEwZ7Nx/dRaI3tnyvUQKBgHLb\neU0rikHW7rBcemsZCwn5yFBrKvKVll7JIphwoLxMPkEOYqBvzkyy7+7ZeSef6rac\nC7lhK962f2vTuybnG72Jn7Hq1VuZYY7i39dh4xt7mIi+nz8VqCuSjNYQBFh7NmTh\nLvJNQelXmZXCSnLfcz6Tj5iNB4bLvp/SR4bQRPiJAoGBAKfyYm4zLaz1wegQc1aI\nQ19VPP01d6yWrUrT8hiALRi8qAHJMAv4SpZwdjkFqQsWe2ip5Jng+357JfGQ9Kn+\nQWpQTVqC3MBgI2CCA0yKPlFZNPGgxe9dze0b4muk9w7p+s28IfHL7l5WfTqN9fTF\nOcfToT8jXQGfUYTdjvuPOIBg\n-----END PRIVATE KEY-----\n",
+  "client_email": "screenshot@mineral-brand-345405.iam.gserviceaccount.com",
+  "client_id": "107109293097897836331",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/screenshot%40mineral-brand-345405.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
